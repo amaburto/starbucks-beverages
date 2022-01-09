@@ -17,3 +17,6 @@ My idea was to show the amount of caffeine for all Starbucks drinks, from the lo
 Anything above - Intense
 
 The outcome was a really neat chart grouping all the drinks in those 5 categories.
+
+
+![starbucks_draw](https://user-images.githubusercontent.com/96749079/148689763-1279342d-50e2-4ae9-b566-a2698d2da900.png)
